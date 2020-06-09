@@ -1,0 +1,8 @@
+Brooklyn,Ladybug,75
+Queens,Ladybug,125
+Manhattan,Roach,1200
+Brooklyn,Butterfly,25
+Bronx,Roach,375
+Staten Island,Butterfly,3
+Brooklyn,Stinkbug,105
+Brooklyn,Ladybug,25
